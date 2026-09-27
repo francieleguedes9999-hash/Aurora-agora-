@@ -1,0 +1,22 @@
+[
+  "tests/test_app_build_coordinator_v747.py::test_build_and_validate_generates_app",
+  "tests/test_app_build_coordinator_v747.py::test_coordinator_status",
+  "tests/test_app_build_coordinator_v747.py::test_create_app_rejects_empty_description",
+  "tests/test_app_build_coordinator_v747.py::test_create_app_runs_blueprint_and_build_pipeline",
+  "tests/test_app_factory.py::test_factory_creates_web_fullstack",
+  "tests/test_app_factory.py::test_factory_preview_does_not_write",
+  "tests/test_app_quality_gate_v760.py::test_quality_gate_accepts_generated_app",
+  "tests/test_app_quality_gate_v760.py::test_quality_gate_detects_missing_preview",
+  "tests/test_app_screen_functionality_v763.py::test_detailed_screens_are_materialized_and_bound_to_entities",
+  "tests/test_app_screen_functionality_v763.py::test_screen_contract_is_present_in_generated_preview",
+  "tests/test_app_screen_ui_v761.py::test_generated_frontend_materializes_declared_screens",
+  "tests/test_aurora_cli.py::test_cli_creates_app",
+  "tests/test_html_preview_v759.py::test_generated_app_contains_standalone_html_preview",
+  "tests/test_html_preview_v759.py::test_preview_is_self_contained_without_fetch",
+  "tests/test_project_blueprint_v732.py::test_blueprint_builds_whole_project",
+  "tests/test_requirement_analyzer_v758.py::test_analyzer_extracts_features_entities_and_ambiguities",
+  "tests/test_requirement_analyzer_v758.py::test_blueprint_persists_requirement_analysis",
+  "tests/test_screen_navigation_v762.py::test_generated_screens_are_interactive_and_route_aware",
+  "tests/test_spec_driven_build.py::test_build_uses_detailed_contract",
+  "tests/test_spec_driven_build.py::test_detailed_build_is_explicitly_contract_driven"
+]
